@@ -1,2 +1,3 @@
-# learn-go
-another github repo i'll ignore; trying to learn go
+# gotries
+
+Learn go by doing.
